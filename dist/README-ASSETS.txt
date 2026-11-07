@@ -1,0 +1,1 @@
+Add your resume PDF here and name it resume.pdf. Replace placeholder social URLs, email address, project repository links, CGPA, graduation year, internship dates and exact responsibilities before publishing.
